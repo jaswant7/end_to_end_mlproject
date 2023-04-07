@@ -1,0 +1,7 @@
+[2023-04-07 15:20:29,084] 23 root-INFO - Entered the data ingestion
+[2023-04-07 15:20:29,124] 26 root-INFO - Read the dataset as dataframe
+[2023-04-07 15:20:29,135] 30 root-INFO - train test split initiated
+[2023-04-07 15:20:29,232] 36 root-INFO - ingestion of the data completed
+[2023-04-07 15:20:29,245] 64 root-INFO - Read and test data completed
+[2023-04-07 15:20:29,245] 46 root-INFO - categorical and numerical feature engineering completed
+[2023-04-07 15:20:29,268] 77 root-INFO - Appling preprocessing object
