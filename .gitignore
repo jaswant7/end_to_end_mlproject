@@ -4,3 +4,4 @@ venv/
 artifacts/
 *.pyc
 token
+stores/
