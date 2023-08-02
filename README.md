@@ -4,10 +4,16 @@
 
 Step1: Activate Environment\
 Step2: Run Python app.py\
-Step3: Open browser and enter "http://127.0.0.1:5000/predictdata"\
+Step3: Open browser and enter "http://127.0.0.1:5000/predictdata" \
 Step4: Enter data and predict result
 
-In background, it will use prediction pipeline, which will take advantage of trained model stored as .pkl file.
+In background, it will use prediction pipeline, which will use trained model stored as .pkl file.
+
+### Training
+
+Run python src/pipeline/train_pipeline.py \
+This will further use different modules - data ingestion, data transformation and model trainer. \
+This will train the model and save .pkl object file for both model and features preprocessing.
 
 
 #### Pre-commit hooks

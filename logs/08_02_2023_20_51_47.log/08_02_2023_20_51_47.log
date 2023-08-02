@@ -1,0 +1,9 @@
+[2023-08-02 20:51:53,877] 27 root-INFO - Entered the data ingestion
+[2023-08-02 20:51:53,940] 30 root-INFO - Read the dataset as dataframe
+[2023-08-02 20:51:53,985] 34 root-INFO - train test split initiated
+[2023-08-02 20:51:54,076] 40 root-INFO - ingestion of the data completed
+[2023-08-02 20:51:54,089] 64 root-INFO - Read and test data completed
+[2023-08-02 20:51:54,089] 46 root-INFO - categorical and numerical feature engineering completed
+[2023-08-02 20:51:54,140] 77 root-INFO - Appling preprocessing object
+[2023-08-02 20:51:54,200] 32 root-INFO - Split train and test input data
+[2023-08-02 20:51:54,477] 61 root-INFO - Best model
